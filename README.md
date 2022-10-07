@@ -2,7 +2,7 @@
 
 My name is Takehiro. I am a software developer with a background in engineering physics.
 
-I like everything from software development, programming, advanced mathematics, machine learning, deep learning, physics, classical to quantum mechanic, and semiconductor/microelectronics.
+I like everything from software development, programming, advanced mathematics, machine learning, deep learning, physics, classical to quantum mechanics, and semiconductor/microelectronics.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=takehiro-code&layout=compact&langs_count=10&theme=tokyonight)]()
 
