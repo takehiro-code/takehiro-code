@@ -4,7 +4,9 @@ My name is Takehiro. I am a software developer with a background in engineering 
 
 I like everything from software development, programming, advanced mathematics, machine learning, deep learning, physics, classical to quantum mechanics, and semiconductor/microelectronics.
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=takehiro-code&layout=compact&langs_count=10&theme=tokyonight)]()
+![](https://komarev.com/ghpvc/?username=takehiro-code)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=takehiro-code&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter%20notebook)]()
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takehiro-code&theme=tokyonight)
 
